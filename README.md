@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# Welcome to My Profile! 👋 
 ![https://t.me/fusuf](https://img.shields.io/badge/telegram-fusuf-blue) ![](https://img.shields.io/badge/main-php-blue) ![https://quiec.tech](https://img.shields.io/badge/my-blog-purple)
 
 Hello! My name is **Yusuf Usta**. I am writing codes from 2016. Unlike PHP, I first started writing the VB.NET language. My first goal when writing code is the security of the code.
@@ -19,3 +19,5 @@ Q | A
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api?username=quiec&show_icons=true&theme=radical&include_all_commits=true)
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quiec&theme=radical&layout=compact)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
