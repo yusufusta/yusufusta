@@ -1,5 +1,8 @@
 # Welcome to My Profile! 👋 
-![https://t.me/fusuf](https://img.shields.io/badge/telegram-fusuf-blue) ![](https://img.shields.io/badge/main-php-blue) ![https://quiec.tech](https://img.shields.io/badge/my-blog-purple) ![Profile views](https://gpvc.arturio.dev/quiec)
+![https://t.me/fusuf](https://img.shields.io/badge/telegram-fusuf-blue) ![Profile views](https://gpvc.arturio.dev/quiec)
+
+<details>
+  <summary>Biography</summary>
 
 Hello! My name is **Yusuf Usta**. I have been writing codes sice 2016. Unlike PHP, I first started writing the VB.NET language. My first goal when writing code is the security of the code.
 
@@ -9,6 +12,8 @@ Despite having command of all operating systems, my favorite operating system is
 
 I am a high school student, I do not have software related education. I learned everything from (`php.net, mozilla js docs, w3schools`) sites.
 
+</details>
+
 Q | A
 --- | --- 
 **My Computer**  | `MacBook Pro 2017 13"`
@@ -17,7 +22,11 @@ Q | A
 **Languages I know**  | `PHP, C#/VB.Net, JS, Python, V, C++`
 **Languages I learning** | `Go, Dart, Rust, Crystal, Swift, Ruby`
 
+<details>
+  <summary>Stats</summary>
+
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api?username=quiec&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quiec&theme=radical&layout=compact)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+</details>
