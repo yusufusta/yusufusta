@@ -17,8 +17,8 @@ Q | A
 <details>
   <summary>Stats</summary>
 
- ‏‏‎ ‎| ‏‏‎ ‎
- --- | ---
-![Quiec's github stats](https://github-readme-stats.vercel.app/api?username=quiec&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quiec&theme=radical&layout=compact)
+ ‏‏‎ ‎|
+ --- |
+![Metrics](https://metrics.lecoq.io/quiec?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
 </details>
