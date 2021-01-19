@@ -19,5 +19,5 @@ Q | A
 
  ‏‏‎ ‎|  ‏‏‎ 
  --- | ---
-![Metrics](https://metrics.lecoq.io/yusufusta?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+![Metrics](https://metrics.lecoq.io/yusufusta?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 </details>
