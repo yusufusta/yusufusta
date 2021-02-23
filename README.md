@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋 
-![https://t.me/fusuf](https://img.shields.io/badge/telegram-fusuf-blue) ![Profile views](https://gpvc.arturio.dev/quiec)
+![Profile views](https://gpvc.arturio.dev/quiec)
 
 <details>
   <summary>Q&A</summary>
@@ -19,5 +19,5 @@ Q | A
 
  ‏‏‎ ‎|  ‏‏‎ 
  --- | ---
-![Metrics](https://metrics.lecoq.io/yusufusta?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+![Metrics](https://github-readme-stats.vercel.app/api?username=yusufusta&show_icons=true&theme=radical) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
 </details>
