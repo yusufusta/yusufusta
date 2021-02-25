@@ -9,8 +9,7 @@ Q | A
 **My Computer**  | `MacBook Pro 2017 13"`
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Desktop, Mobile, Web, CLI`
-**Languages I know**  | `PHP, C#/VB.Net, JS, Python, V, C++`
-**Languages I learning** | `Go, Dart, Rust, Crystal, Swift, Ruby`
+**My Favorite Languages**  | `PHP, C#/VB.Net, JS, Python, Go, C++`
 
 </details>
 
