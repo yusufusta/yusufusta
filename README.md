@@ -10,7 +10,7 @@ Q | A
 **My Computer**  | `MacBook Pro 2017 13"`
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Desktop, Mobile, Web, CLI`
-**My Favorite Languages**  | `PHP, C#/VB.Net, JS, Python, Go, C++`
+**My Favorite Languages**  | `PHP, C#/VB.Net, JS, Python, Go, Swift`
 
 </details>
 
