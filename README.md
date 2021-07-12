@@ -1,4 +1,4 @@
-# [Welcome to My Profile! 👋](https://fusuf.codes)
+# [Welcome to My Profile! 👋](https://yusufusta.net)
 ![Profile views](https://gpvc.arturio.dev/quiec)
 
 
