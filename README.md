@@ -1,5 +1,5 @@
 # [Welcome to My Profile! 👋](https://yusufusta.net)
-![Profile views](https://gpvc.arturio.dev/quiec)
+![Profile views](https://gpvc.arturio.dev/quiec) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yusufusta/&title=Profile%20Views)
 
 
 <details>
