@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋
-![Profile views](https://gpvc.arturio.dev/quiec) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yusufusta/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yusufusta/&title=Profile%20Views)
 
 
 <details>
@@ -7,10 +7,10 @@
 
 Q | A
 --- | --- 
-**My Computer**  | `MacBook Pro 2017 13"`
+**My Computer(s)**  | `MacBook Pro M2 14"`, `MacBook Pro 2019 16" (Main)`, `MacBook Pro 2017 13"`
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Desktop, Mobile, Web, CLI`
-**My Favorite Languages**  | `PHP, C#/VB.Net, JS, Python, Go, Swift`
+**My Favorite Languages**  | `PHP, C++, JS, Python, Go, Swift`
 
 </details>
 
