@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# [Welcome to My Profile! 👋](https://yusufusta.dev)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yusufusta/&title=Profile%20Views)
 
 
