@@ -1,1 +1,1 @@
-# [Welcome to My Profile! 👋](https://yusufusta.dev)
+[Welcome to My Profile! 👋](https://yusufusta.dev)
